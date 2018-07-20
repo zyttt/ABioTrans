@@ -1,1 +1,2 @@
-# Abiotrans-logo.png and load.gif pics
+# inside the folder that contains ABioTrans.R, create a folder called www
+# put in Abiotrans-logo.png and load.gif

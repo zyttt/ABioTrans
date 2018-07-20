@@ -54,4 +54,4 @@ A Biostatistical tool for Transcriptomics Analysis
 ```R
 webshot::install_phantomjs()
 ```
-3. For Chrome users, the Download as PNG button may be disabled. Please put your mouse over the graph region and click the left most camera sign to save the plot. It will be saved in the download folder on your computer. 
+3. For Chrome users, the `Download as PNG` button may be disabled. Please put your mouse over the graph region and click the left most camera sign to save the plot. It will be saved in the download folder on your computer. 

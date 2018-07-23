@@ -11,3 +11,6 @@ When you input a datafile, please always check that the data is clean and follow
 
 ## Distribution fit
 In distribution fit, some statistical distributions may not be able to performed. An error message like “the function mle failed to estimate the parameters, with the error code 100” may be shown. Please either go back and check if the data has invalid values, or uncheck the boxes of certain distributions until a graph is shown successfully. You can always find out which distribution is causing the problem.
+
+## Download files
+Please refer to the download instructions in README file.

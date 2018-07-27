@@ -10,7 +10,7 @@ setwd("your_directory_path")
 ```
 4. Run the code: 
 ```R
-runApp('ABioTrans.R’)
+runApp('ABioTrans.R')
 ```
 * You can start your analysis now!
 

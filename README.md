@@ -43,8 +43,8 @@ runApp('ABioTrans.R’)
 * Select a desired noise plot according to your data. By default the name of the first replicate in each genotype is used as the name of the genotype. You can specify the names of the genotypes, only make sure that all names are different (due to the mapping mechanism of Plotly). Please be reminded that the consecutive columns will be regarded as of the same genotype.
 * Noise here refers to the average transcriptome noise — the squared coefficient of variation — defined as the variance (σ2) of expression divided by the square mean expression (μ2). 
 * If `replicates` is selected, the noise within one genotype will be computed. 
-* If `genotypes (average of replicates)` is selected, the gene expression data within one genotype will first be taken average of, and the average value will be used as the expression value of that certain genotype. Then noise will be computed between the anchor genotype and all the rest of genotypes. 
-* If `genotypes (no replicate)` is selected, it means that each column is treated as one genotype. Noise will directly be computed between the anchor genotype and all the rest of genotypes. 
+* If `genotypes (average of replicates)` is selected, the gene expression data within one genotype will first be taken average of, and the average value will be used as the expression value of that certain genotype. Then noise will be computed between the anchor genotype and all the other genotypes. 
+* If `genotypes (no replicate)` is selected, each sample column is treated as a different genotype. Noise will directly be computed between the anchor genotype and the rest of the genotypes. 
 
 ### Entropy
 * First specify whether your data is a time series data.

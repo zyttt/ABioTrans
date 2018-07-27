@@ -12,7 +12,7 @@ setwd("your_directory_path")
 ```R
 runApp('ABioTrans.R')
 ```
-* You can start your analysis now!
+ You can start your analysis now!
 
 ## How to do analysis
 ### Home

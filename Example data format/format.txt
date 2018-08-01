@@ -1,2 +1,0 @@
-Please refer to Figure a and Figure b for raw data and normalised data format.
-You can play around in GUI with the example data yeast_raw.csv and yeast_rpkm.csv

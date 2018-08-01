@@ -22,7 +22,7 @@ runApp('ABioTrans.R')
 * Move on to the analysis methods once a datafile is loaded.
 
 ### Scatter plot
- Choose the variable on x and y axis. Take log transformation on the values if needed. You can download a single plot as PDF. You can also download all pairs of samples scatter plot in one PDF file, which may take some time to run. 
+ Choose the variable on x and y axis. Take log transformation on the values if needed. The colors refer to kernel density estimation (KDE). You can download a single plot as PDF. You can also download all pairs of samples scatter plot in one PDF file, which may take some time to run. 
 
 ### Distributions
  Choose the column you want to fit and compare with any combinations of the six statistical distributions. You can adjust the slider or input the range for x-axis to zoom in to see the fitted curve.
